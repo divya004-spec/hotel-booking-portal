@@ -7,7 +7,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://YOUR-BACKEND.onrender.com/api/:splat"
+  to = "https://hotel-booking-api-jx27.onrender.com/api/:splat"
   status = 200
   force = true
 
